@@ -1,0 +1,105 @@
+body{
+	padding: 50px 110px; 
+    font-size: 8 pc;
+    background-color: lightblue;
+}
+
+
+
+h1 {
+    color: purple;
+    font-style: italic;
+    font-size: 50px;
+    text-align : center;
+    
+    border-style: solid;
+    
+}
+
+.homepara {
+    font-style: ;  /*group choose a font u like */
+    margin: 70px 0px 100px 10px; /*the gap between the button and paragraph*/
+    
+    
+    
+    
+    
+    
+}
+/* new */
+
+ul {
+  
+  list-style-type: none;
+  padding: 0;
+  position: -webkit-sticky; /* For Safari browser */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  display: inline-block;
+    list-style-type: none;
+  float: left;
+    
+}
+
+li a {
+  
+  color: white;
+   margin: 0 auto;
+  padding: 13px 16px;
+  text-decoration: none;
+}/
+
+li a:hover {
+  background-color: #111;
+}
+
+.Home {
+  background-color: #004f32;
+  float: left;
+}
+
+.temp3 {
+  background-color: #004f32;
+  float:right;    
+  
+}
+
+.temp2 {
+  background-color: #004f32;
+  float:right;    
+  
+}
+
+
+.temp1 {
+  background-color: #004f32;
+  float:right;    
+}
+    
+.Design {
+  background-color: #004f32;
+  float:right;    
+}
+       
+     
+.History {
+  background-color: #004f32;
+  float:right;    
+}
+          
+  .Sources {
+  background-color: #004f32;
+  float:right;    
+}
+
+.Info {
+  background-color: #004f32;
+  float:right;    
+}
+
+    
+    
+    
